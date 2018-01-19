@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>KT Cake House</title>
+<style type="text/css">
+body{background-image:url("https://orig00.deviantart.net/3c27/f/2015/079/c/e/cupcake_wallpaper_by_sosogirl123-d8mgipk.png");
+     background-attachment:fixed;
+     background-repeat:repeat;
+     background-color:#D1D4D9;
+     background-size:100%;
+     background-position:center}
+h2{color:white;font-size:180%}
+a:link {color: #00FF37;}
+a:visited {color: #71FA5C;}
+a:hover {color: #FF0000;}
+a:active {color: #0000FF;}
+.special{color:black;}
+.shadow{text-shadow: 2px 2px #ff0000;}
+</style>
+</head>
+
+
+
+
+<!YOU MAY START EDIT FROM THIS PART BELOW>
+
+<body>
+<b>
+<marquee>
+Hi, welcome to KT Cake House.
+</marquee>
+
+<p id="demo" align="right"></p>
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
+
+
+
+</b>
+<hr>
+<h1 class="special; shadow">KT CAKE HOUSE <img src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/16939334_1355930784481023_5649755322421626761_n.jpg?oh=3732d18ba606182c68313d0cc3cd02e3&oe=5AB6BA5A" width=2%" height="2%">
+</h1>
+<table style="text-align: left; margin-left: auto; margin-right: auto; height: 41px; background-color: rgb(200, 24, 61); width: 1198px;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153);   width: 286px;"><a href="1.Home.html"><big><big>Home	
+      </big></big></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);width: 286px;"><a href="2.Catalog.html"><big><big>Catalog
+      </big></big></a></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);  background-color: rgb(191, 191, 192); width: 286px;"><a href="3.Ingredient.html"><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="left"><big style="color: black;"><big>Ingredient
+      </big></big><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="right"></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); width: 286px;"><a href="4.About Us.html"><big><big>About Us
+      </big></big></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153); width: 286px;"><a href="5.Career.html"><big><big>Career
+      </big></big></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+
+
+									<!CAKES>
+
+<table style="text-align: left; height: 639px; width:750px; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+
+<thead>
+<tr >
+	<th colspan="2" style="background-color:rgb()"><h2 id="Cakes" class="special" style="text-decoration:underline;text-decoration-style: dotted;"><big>Cakes</big></h2> 
+	<a href="#CupCakes"><h4 style="text-align:right">
+	<img src="http://www.clker.com/cliparts/9/4/4/b/1321886706177876170press_button.svg.hi.png" height="30pt" width="45pt">
+	PRESS to CupCakes</h4><a>
+	</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+      <td style="vertical-align: top; background-color: rgb(250, 215, 160 ); text-align: center;width:250px"> <img src="https://www.love.com.my/files/product_image/442/1350106789.jpg" height="200" width="200"><br>
+	Choco Heart
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(250, 215, 160  ); text-align: left; width:500px"> <ol type="1" start="1"> <h2 class="special"><li>Choco Heart</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+
+
+
+</big><br></ol>
+
+      </td>
+    </tr>
+<tr>
+     <td style="vertical-align: top; background-color: rgb(253, 235, 208 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/4085/1437134691.png" height="200" width="200"><br>
+	Black Forest
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(253, 235, 208  ); text-align: left;width:500px"> <ol type="1" start="2"> <h2 class="special"><li>Black Forest</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+
+
+</big></ol>
+      </td>
+    </tr>
+<tr>
+     <td style="vertical-align: top; background-color: rgb(250, 215, 160 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/132/1456797339.png" height="200" width="200"><br>
+	Golden Biscuits
+
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(250, 215, 160  ); text-align: left;width:500px"> <ol type="1" start="3"> <h2 class="special"><li>Golden Biscuit</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+    </tr>
+
+<tr>
+     <td style="vertical-align: top; background-color: rgb(253, 235, 208 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/3880/1429104822.jpg" height="200" width="200"><br>
+	Carrot Cream
+
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(253, 235, 208  ); text-align: left;width:500px"> <ol type="1" start="4"> <h2 class="special"><li>Carrot Cream</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+    </tr>
+
+<tr>
+     <td style="vertical-align: top; background-color: rgb(250, 215, 160 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/4083/1436932067.png" height="200" width="200"><br>
+	Mango Coco
+
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(250, 215, 160  ); text-align: left;width:500px"> <ol type="1" start="5"> <h2 class="special"><li>Mango Coco</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+    </tr>
+
+<tr>
+     <td style="vertical-align: top; background-color: rgb(253, 235, 208 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/4583/1459477509.png" height="200" width="200"><br>
+	Choco Wood
+
+
+      </td>
+      <td style="vertical-align: top; background-color: rgb(253, 235, 208  ); text-align: left;width:500px"> <ol type="1" start="6"> <h2 class="special"><li>Choco Wood</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+
+										<!CUP CAKES>
+
+<br>
+<table style="text-align: right; height: 639px; width:750px; margin-left: auto; margin-right: auto;" border="1" cellpadding="2" cellspacing="2">
+
+<thead>
+<tr >
+	<th colspan="2" style="background-color:rgb()"><h2 id="CupCakes" class="special" style="text-decoration:underline;text-decoration-style: dotted;"><big>Cup Cakes</big></h2>
+	<a href="#Cakes"><h4 style=" text-align:left">
+	<img src="http://www.clker.com/cliparts/9/4/4/b/1321886706177876170press_button.svg.hi.png" height="30pt" width="45pt">
+	PRESS to Cakes</h4><a>
+</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+     <td style="vertical-align: top; background-color: rgb(250, 215, 160  ); text-align: left; width:500px"> <ol type="1" start="1"> <h2 class="special"><li>Rose Cup</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+
+
+
+</big><br></ol>
+      </td>
+ 	<td style="vertical-align: top; background-color: rgb(250, 215, 160 ); text-align: center;width:250px"> <img src="https://www.love.com.my/files/product_image/5285/1513446431.jpg" height="200" width="200"><br>
+	Rose Cup
+
+      </td>
+    </tr>
+
+<tr>
+
+      <td style="vertical-align: top; background-color: rgb(253, 235, 208  ); text-align: left;width:500px"> <ol type="1" start="2"> <h2 class="special"><li>Choco Cup</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+
+
+</big></ol>
+      </td>
+
+     <td style="vertical-align: top; background-color: rgb(253, 235, 208 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/5286/1513448629.jpg" height="200" width="200"><br>
+	Choco Cup
+     </td>
+    </tr>
+<tr>
+
+      <td style="vertical-align: top; background-color: rgb(250, 215, 160  ); text-align: left;width:500px"> <ol type="1" start="3"> <h2 class="special"><li>Vanila Cup</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+
+     <td style="vertical-align: top; background-color: rgb(250, 215, 160 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/5287/1513449914.jpg" height="200" width="200"><br>
+	Vanila Cup
+      </td>
+    </tr>
+
+<tr>
+
+      <td style="vertical-align: top; background-color: rgb(253, 235, 208  ); text-align: left;width:500px"> <ol type="1" start="4"> <h2 class="special"><li>Strawberry Cup</h2><big style="color: rgb(44, 62, 80);"> 
+
+
+	
+
+</big><br></ol>
+      </td>
+     <td style="vertical-align: top; background-color: rgb(253, 235, 208 ); text-align: center;"> <img src="https://www.love.com.my/files/product_image/5288/1513450672.jpg" height="200" width="200"><br>
+	Strawberry Cup
+      </td>
+    </tr>
+
+
+  </tbody>
+</table>
+<br>
+  <marquee>Welcome to KT Cake House</marquee>
+<br><object height="1" width="1" data="Canon.mp3"></object>
+</body>
+</html>
