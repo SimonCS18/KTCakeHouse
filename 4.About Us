@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>KT Cake House</title>
+<style type="text/css">
+body{background-image:url("https://i2.wp.com/sofiascakes.com/wp-content/uploads/2015/03/sofias-cakes-background-only.jpg");
+     background-attachment:fixed;
+     background-repeat:repeat;
+     background-color:#D1D4D9;
+     background-size:100%;
+     background-position:center}
+td{color:white;font-size:100%}
+th{color:white; font-size:150%}
+
+a:link {color: #00FF37;}
+a:visited {color: #71FA5C;}
+a:hover {color: #FF0000;}
+a:active {color: #0000FF;}
+.special{color:black;}
+.shadow{text-shadow: 2px 2px #ff0000;}
+.black{color: #273746;}
+.ex4 {margin: 0 14cm 0.5cm 1cm;}
+</style>
+</head>
+
+
+<body>
+<b>
+<marquee>
+<img  src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height="4%" width="4%">
+<i>HI, WELCOME TO KT Cake House.</i>					
+</marquee>
+
+<p id="demo" align="right"></p>
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
+
+</b>
+<hr>
+	<h1 class="shadow">KT CAKE HOUSE <img src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/16939334_1355930784481023_5649755322421626761_n.jpg?oh=3732d18ba606182c68313d0cc3cd02e3&oe=5AB6BA5A" width=2%" height="2%">
+</h1>
+<table style="text-align: left; margin-left: auto; margin-right: auto; height: 41px; background-color: rgb(200, 24, 61); width: 85%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153);   width: 286px;"><a href="1.Home.html"><big><big>Home	
+      </big></big></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);width: 286px;"><a href="2.Catalog.html"><big><big>Catalog
+      </big></big></a></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153); width: 286px;"><a href="3.Ingredient.html"><big><big>Ingredient
+      </big></big></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);  background-color: rgb(191, 191, 192); width: 286px;"><a href="4.About Us.html"><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="left"><big style="color: black;"><big>About Us
+      </big></big><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="right"></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); width: 286px;"><a href="5.Career.html"><big><big>Career
+      </big></big></a></td>
+    </tr>
+  </tbody>
+</table>
+<p>
+<br>
+       
+<table style="width:80%" align="center">
+
+  <tr>
+    <th><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#1A5276;text-shadow:2px 3px 3px #FFFF02">KT Cake House</font></th>
+    <th><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#1A5276;text-shadow:2px 3px 3px #FFFF02">Founded in 2015</font></th>
+  </tr>
+  <tr>
+    <td><br><img src="https://i.giphy.com/media/PyOzvC8NUwjGE/giphy.webp" height="50%" width="" align="left"></td>
+    <td><br><font align="center" style="font-family:Comic Sans; font-size:23px; color:#6C3483">
+
+<u><b>KT Cake House</b></u> was started off its business by a small hobby of a group of friends that they like to bake some cakes and cookies during their free time or holidays. 
+As time goes by, with the passions they like to bake cake, they have come out a business plan to use their hobby to make some money. <br><br>
+
+From the start they are having the business to between their friends and family members.With the passage of time, with the close and intimate contact, the customer base is constantly expanding. <br><br>
+
+All the cake and cupcakes that provided by <u><b>KT Cake House</b></u> was insure 100% home baked. 
+The customers are allowed customize the cakes and cupcakes they ordered with the designs or favors they want. Besides that, <u><b>KT Cake House’s</b></u> cake all are using the organic ingredients and are preservative free.</td>
+  
+</tr>
+  <tr >
+    <td colspan="2"><br><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:35px; color:#1A5276;text-shadow:5px 10px 15px red">Mission</font><br>
+		<font style="font-style:italic;font-weight:bold;font-family:Comic Sans; font-size:20px;color:#273746">Be the top cakes house in Malaysia</font><br><br>
+		<font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:35px; color:#1A5276;text-shadow:5px 10px 15px red">Vision</font><br>
+		<font style="font-style:italic;font-weight:bold;font-family:Comic Sans; font-size:20px;color:#273746">Makes all the customers have a happy day with our cakes</font></td>
+  </tr>
+</table>
+<br>
+<br>
+<br>
+<br>
+
+<h1><font style="font-family:Comic Sans;font-weight: bold; font-size:50px; color:white;text-shadow:5px 8px 15px grey; margin:25px">Contact Us</font></h1>
+<p class="ex4"><font style="font-size:25px; font-weight:bold">KT CAKE HOUSE</font></p>
+<p class="ex4"><font style="font-size:16px">Address:</font>Lot88, Jalan Murni 13, Taman Malim Jaya,75250 Melaka, Malaysia. </p>
+<p class="ex4"><font style="font-size:16px">Phone Number:</font> <a href="callto:0123456789" target="_top">0123456789</a></p>
+<p class="ex4"><font style="font-size:16px">Email Us: <a href="mailto:chinshenglai@gmail.com" target="_top">ktcakehouse@gmail.com</a></p>
+<br>
+<br>
+<marquee>
+<i><font style="font-size:45px;font-weight: bold;color:grey">Thank you for visiting our Website, we hope to meet you soon!</font>
+</marquee>
+
+
+</body>
+</html>
