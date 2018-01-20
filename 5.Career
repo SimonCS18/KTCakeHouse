@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>KT Cake House</title>
+<style type="text/css">
+body{background-image:url("https://i.pinimg.com/originals/e2/e9/e4/e2e9e4a0eac1874323a43edb83de0b11.jpg");
+     background-attachment:fixed;
+     background-repeat:repeat;
+     background-color:#D1D4D9;
+     background-size:100%;
+     background-position:center}
+h2{color:white; font-size:200%}
+div.Logo{
+width:50px; 
+height:50px; 
+padding-left:1050px;
+content:url("http://img1.wikia.nocookie.net/__cb20120211172706/logopedia/images/thumb/0/07/Fc_barcelona.png/500px-Fc_barcelona.png"); }
+
+a:link {color: #00FF37;}
+a:visited {color: #71FA5C;}
+a:hover {color: #FF0000;}
+a:active {color: #0000FF;}
+.special{color:black;}
+.shadow{text-shadow: 2px 2px #ff0000;}
+.table1 {
+    border: 2px solid pink;
+    border-collapse: collapse;
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+.th1{
+    padding: 0.5cm;
+    text-align: center;
+}
+.td1 {
+    padding: 0.2cm;
+    text-align: left;
+	width:50%;
+}
+</style>
+</head>
+
+
+<body>
+<b>
+<marquee>
+<img  src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" height="4%" width="4%">
+<i>HI, WELCOME TO KT Cake House.</i>					
+</marquee>
+
+<p id="demo" align="right"></p>
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d.toDateString();
+</script>
+
+</b>
+
+
+<hr>
+<h1 class="shadow">KT CAKE HOUSE <img src="https://scontent.fkul13-1.fna.fbcdn.net/v/t1.0-9/16939334_1355930784481023_5649755322421626761_n.jpg?oh=3732d18ba606182c68313d0cc3cd02e3&oe=5AB6BA5A" width=2%" height="2%">
+</h1>
+<table style="text-align: left; margin-left: auto; margin-right: auto; height: 41px; background-color: rgb(200, 24, 61); width: 85%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153);   width: 286px;"><a href="1.Home.html"><big><big>Home	
+      </big></big></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);width: 286px;"><a href="2.Catalog.html"><big><big>Catalog
+      </big></big></a></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); background-color: rgb(0, 61, 153); width: 286px;"><a href="3.Ingredient.html"><big><big>Ingredient
+      </big></big></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255); width: 286px;"><a href="4.About Us.html"><big><big>About Us
+      </big></big></a></td>
+      <td style="vertical-align: top; text-align: center; font-weight: bold; color: rgb(102, 255, 255);  background-color: rgb(191, 191, 192); width: 286px;"><a href="5.Career.html"><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="left"><big style="color: black;"><big>Career
+      </big></big><img src="http://www.clker.com/cliparts/D/N/1/W/E/s/strawberry-cupcake-md.png"height="25" width="25" align="right"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<!YOU MAY START EDIT FROM THIS PART BELOW>
+<h2><center>CAREERS INFORMATION</center></h2><br>
+<p><font style="font-style:bold;font-family:Comic Sans; font-size:25px;color:White"><center>We love ambitious go-getters like you. </font></p>
+<p><center><font style="font-style:bold;font-family:Comic Sans; font-size:25px; color:white">You get up early to make the most of the day, to earn a crust, to do a job you love and you’re exactly the type of person we want to work with here at KT Cake House.</center></font></p>
+<br>
+<br><center><h3><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#4d94ff">Job Opportunities</font></h3>
+<table style="width:90%">
+  <tr>
+    <th colspan="2"><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:black;text-shadow:2px 3px 3px #c44dff">Senior Baker</font></th>
+  </tr>
+   <tr>
+    <td><center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
+	 <td rowspan="2" valign ="top"><img src="http://www.sait.ca/assets/images/Programs%20and%20Courses/Apprenticeships%20and%20Trades/Apprenticeships/Baker%20Apprentice.jpg">
+	</td>
+  </tr>
+  <tr>
+  <td valign ="top">
+<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #cc66ff">
+	<li>Responsible on all bakeries preparation & production arrangement.</li>
+	<li>Measure ingredients or substances to be used in production processes.</li>
+	<li>Adapt the quantity and quality of ingredients to match the amount of items to be processes.</li>
+	<li>Check the quality of raw materials to ensure that standards and specifications are met.</li>
+	<li>Knowledgeable using, setting time and speed controls for all equipment and machines according to instructions.</li>
+</font></ul>
+	</td>
+	
+</tr>
+  
+</table>
+<br>
+<br>
+<br>
+<center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black"><u>Job Requirements</u></font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Min 3-5 years relevant experience in bakery field.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Customer service oriented.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Friendly and out going personality.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Pleasant personality with good problem solving skills.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Team player who is highly independent self motivated, result oriented and innovative.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Able to work shifts, weekend and public holidays.</font></center>
+
+
+<br><br><br>
+<br><br><br>
+<br><br><br>
+
+
+<table style="width:90%">
+  <tr><th colspan="2"><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:black;text-shadow:2px 3px 3px #4d94ff">Baker Trainees</font></th>
+  </tr>
+   <tr>
+	 <td rowspan="2"valign ="top"><center><img src="https://i0.wp.com/www.culinarycareer.net/wp-content/uploads/2015/10/baker.jpg?resize=1000%2C667"  width="550cn" height="360cm"></center>
+</td>
+<td><center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
+  </tr>
+  <tr>
+  
+	<td valign ="top">
+<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #cc66ff">
+	<li>Helping existing baker by collecting necessary ingredients and reorder stock</li>
+	<li>Helping the baker with cooking processes.</li>
+	<li>Responsible for cleaning,organizing and checking product quality.</li>
+	<li>Learn to maintain high standard of food quality and consistency. </li>
+	<li>Pack and display bread in an organized manner. </li>
+	<li>Report to baker or senior baker.</li>
+</ul>
+	</td>
+</tr>
+  
+</table>
+<br>
+<br>
+<br>
+<center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black"><u>Job Requirements</u></font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Baking / Food Preparation experience is desirable (not essential).</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Full Training will be provided.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Work well within a team.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Ability to work in a physically demanding environment.</font></center>
+<center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Good communication skills.</font></center>
+<br><br>
+<br>
+<h2>Find a job at KT Cake House</h2></center>
+<br>
+<p><font style="font-weight: bold; font-size:29px;" class="special">Email us at: <a href="mailto:chinshenglai@gmail.com" target="_top">ktcakehouse@gmail.com</a></font></p>
+</body>
+</html>
