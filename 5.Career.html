@@ -11,27 +11,27 @@ body{background-image:url("https://i.pinimg.com/originals/e2/e9/e4/e2e9e4a0eac18
      background-color:#D1D4D9;
      background-size:100%;
      background-position:center}
-h2{color:white; font-size:200%}
+h2{color:yellow; font-size:200%}
 a:link {color: #00FF37;}
 a:visited {color: #71FA5C;}
 a:hover {color: #FF0000;}
 a:active {color: #0000FF;}
 .special{color:black;}
 .shadow{text-shadow: 2px 2px #ff0000;}
+.shadow2{text-shadow: 2px 2px grey;}
 .table1 {
     border: 2px solid pink;
     border-collapse: collapse;
+    border-style: dotted;
 	margin-left: 2cm;
 	margin-right: 2cm;
 }
-.th1{
-    padding: 0.5cm;
-    text-align: center;
-}
-.td1 {
-    padding: 0.2cm;
-    text-align: left;
-	width:50%;
+.table2 {
+    border: 2px solid pink;
+    border-collapse: collapse;
+    border-style: dashed;
+	margin-left: 2cm;
+	margin-right: 2cm;
 }
 </style>
 </head>
@@ -77,23 +77,24 @@ document.getElementById("demo").innerHTML = d.toDateString();
 
 
 <!YOU MAY START EDIT FROM THIS PART BELOW>
-<h2><center>CAREERS INFORMATION</center></h2><br>
-<p><font style="font-style:bold;font-family:Comic Sans; font-size:25px;color:White"><center>We love ambitious go-getters like you. </font></p>
-<p><center><font style="font-style:bold;font-family:Comic Sans; font-size:25px; color:white">You get up early to make the most of the day, to earn a crust, to do a job you love and you’re exactly the type of person we want to work with here at KT Cake House.</center></font></p>
+
+<h2 class="shadow"><center><u>CAREERS INFORMATION</u></center></h2>
+<p><font style="font-style:bold;font-family:Comic Sans; font-size:20px;color:White"><center>We love ambitious go-getters like you. </font></p>
+<p><center><font style="font-style:bold;font-family:Comic Sans; font-size:18px; color:white">You get up early to make the most of the day, to earn a crust, to do a job you love and you’re exactly the type of person we want to work with here at <strong><u>KT Cake House</u></strong>.</center></font></p>
 <br>
-<br><center><h3><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#4d94ff">Job Opportunities</font></h3>
-<table style="width:90%">
+<br><center><h3 class=shadow2><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#c44dff">Job Opportunities</font></h3>
+<table class="table1" style="width:90%;">
   <tr>
     <th colspan="2"><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:black;text-shadow:2px 3px 3px #c44dff">Senior Baker</font></th>
   </tr>
    <tr>
-    <td><center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
+    <td><center><font  style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
 	 <td rowspan="2" valign ="top"><img src="http://www.sait.ca/assets/images/Programs%20and%20Courses/Apprenticeships%20and%20Trades/Apprenticeships/Baker%20Apprentice.jpg">
 	</td>
   </tr>
   <tr>
   <td valign ="top">
-<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #cc66ff">
+<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #cc66ff; ">
 	<li>Responsible on all bakeries preparation & production arrangement.</li>
 	<li>Measure ingredients or substances to be used in production processes.</li>
 	<li>Adapt the quantity and quality of ingredients to match the amount of items to be processes.</li>
@@ -121,19 +122,20 @@ document.getElementById("demo").innerHTML = d.toDateString();
 <br><br><br>
 <br><br><br>
 
-
-<table style="width:90%">
+<center><h3 class=shadow2><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#4d94ff">Job Opportunities</font></h3>
+<table class="table1" style="width:90%;">
+<table class="table2" style="width:90%">
   <tr><th colspan="2"><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:black;text-shadow:2px 3px 3px #4d94ff">Baker Trainees</font></th>
   </tr>
    <tr>
 	 <td rowspan="2"valign ="top"><center><img src="https://i0.wp.com/www.culinarycareer.net/wp-content/uploads/2015/10/baker.jpg?resize=1000%2C667"  width="550cn" height="360cm"></center>
 </td>
-<td><center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
+<td><center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#4d94ff;text-shadow:2px 3px 3px black">Job Description</font></center></td>
   </tr>
   <tr>
   
 	<td valign ="top">
-<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #cc66ff">
+<ul><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white;text-shadow:2px 3px 3px #4d94ff">
 	<li>Helping existing baker by collecting necessary ingredients and reorder stock</li>
 	<li>Helping the baker with cooking processes.</li>
 	<li>Responsible for cleaning,organizing and checking product quality.</li>
@@ -148,7 +150,7 @@ document.getElementById("demo").innerHTML = d.toDateString();
 <br>
 <br>
 <br>
-<center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#e6b3ff;text-shadow:2px 3px 3px black"><u>Job Requirements</u></font></center>
+<center><font style="font-style:italic;font-family:Comic Sans;font-weight: bold; font-size:30px; color:#4d94ff;text-shadow:2px 3px 3px black"><u>Job Requirements</u></font></center>
 <center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Baking / Food Preparation experience is desirable (not essential).</font></center>
 <center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Full Training will be provided.</font></center>
 <center><font style="font-family:Comic Sans;font-weight: bold; font-size:24px; color:white">Work well within a team.</font></center>
@@ -157,7 +159,6 @@ document.getElementById("demo").innerHTML = d.toDateString();
 <br><br>
 <br>
 <h2>Find a job at KT Cake House</h2></center>
-<br>
 <p><font style="font-weight: bold; font-size:29px;" class="special">Email us at: <a href="mailto:chinshenglai@gmail.com" target="_top">ktcakehouse@gmail.com</a></font></p>
 
 <br><object height="1" width="1" data="Fade(Chorus).mp3"></object>
